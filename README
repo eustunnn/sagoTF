@@ -1,8 +1,12 @@
+Aldığımız 1 haftalık eğitimden sonra bash script çalışırken aklıma gelen, 
+ctf yarışmalarında (Steganography ve Kriptografi) işinize yarayacak/kolaylık
+sağlayacak bir tool geliştirdim
+
+
 fl4g(n3y1m_v4rk1_r4pt3n_g4yr1)
            -s4g0f34tc3z4
 
 just do this before running
-
 apt install cowsay
 chmod +x sagoTF.sh
 ./sagoTF.sh
